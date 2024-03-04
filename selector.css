@@ -1,0 +1,7 @@
+h1 { color: red; }
+h2.blue { color: blue; }
+.gray { color: gray; }
+#golden { color: goldenrod; }
+div:first-child{ color: aqua;}
+div:last-child{ color: rgb(212, 0, 255);}
+.container :nth-child(4) { background: rgb(0, 255, 255); }

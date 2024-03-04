@@ -1,0 +1,16 @@
+ul :nth-child(2n +1){
+    background: pink;
+    margin: 1em;
+    color: rgb(240, 252, 255);
+    padding: 1em;
+    margin-top: 2em ;
+
+}
+ul :nth-child(2n){
+    background: rgb(255, 192, 224);
+    margin: 1em;
+    color:blueviolet;
+    padding: 1em;
+    margin-top: 2em ;
+
+}
